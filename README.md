@@ -38,3 +38,14 @@ algorithms*, Energy Storage and Saving.
 ---
 
 ## Project Structure
+## How to Run
+1. Open `MINI_PROJECT___.ipynb` in Google Colab
+2. Upload the datasets from the `datasets/` folder
+3. Run all cells sequentially
+
+## Tech Stack
+Python, Scikit-learn, XGBoost, Genetic Algorithm,
+Matplotlib, Gradio, Google Colab
+
+## License
+MIT License
